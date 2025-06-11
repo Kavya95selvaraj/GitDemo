@@ -6,6 +6,7 @@ public class CoreJavaBasics {
 		//Variables and data types
 		int num=5;
 		String url="Rahulshetty";
+		String name="Kavya";
 		double num1=3.33;
 		boolean value=true;
 		System.out.println(num);
